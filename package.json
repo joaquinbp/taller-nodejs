@@ -1,0 +1,31 @@
+{
+  "name": "taller-nodejs",
+  "version": "1.0.0",
+  "description": "Taller de NodeJS y Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016https://github.com/joaquinbp/taller-nodejs.git"
+  },
+  "keywords": [
+    "taller",
+    "nodejs",
+    "express",
+    "codefest",
+    "heading"
+  ],
+  "author": "Joaquin Bono Pineda",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "figlet": "^1.2.4",
+    "moment": "^2.24.0",
+    "voca": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
